@@ -8,9 +8,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 
-/**
- * @author pksunkara
- */
 public class Rank {
 	public SparseMatrixUtil matrixUtil;
 	public Cluster c = null;

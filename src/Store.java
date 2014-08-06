@@ -8,9 +8,6 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.Iterator;
 
-/**
- * @author pksunkara
- */
 public class Store {
 	private static Store instance = null;
 	public HashMap<String, Vertex> vertex_p;

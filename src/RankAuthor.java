@@ -2,9 +2,6 @@
  * RankAuthor - RankAuthor store for the program
  */
 
-/**
- * @author pksunkara
- */
 public class RankAuthor {
 
 	double v = 0.0;

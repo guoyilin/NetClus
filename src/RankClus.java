@@ -6,9 +6,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.ArrayList;
 
-/**
- * @author pksunkara
- */
 public class RankClus {
 
 	public static Cluster c;

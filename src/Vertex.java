@@ -1,9 +1,6 @@
 /**
  * Vertex - Objects representing vertexes of graphs
- */
-
-/**
- * @author pksunkara
+ * @author guoyilin1987@gmail.com
  */
 public class Vertex {
 

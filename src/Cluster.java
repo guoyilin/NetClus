@@ -1,5 +1,6 @@
 /**
  * Cluster - Cluster store for the program
+ * @author: guoyilin1987@gmail.com
  */
 
 import Jama.*;
@@ -12,9 +13,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Set;
 
-/**
- * @author pksunkara
- */
+
 public class Cluster {
 
 	private int k = 0;// k+1 is the global network

@@ -7,7 +7,7 @@ import java.util.Iterator;
 
 /**
  * sparse matrix 's compute method
- * @author Administrator
+ * @author guoyilin1987@gmail.com
  *
  */
 public class SparseMatrixUtil {

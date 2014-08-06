@@ -6,9 +6,6 @@ import Jama.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/**
- * @author pksunkara
- */
 public class SingleCluster {
 
 	public ArrayList<Integer> paperList;// this cluster's paper set.

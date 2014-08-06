@@ -18,9 +18,6 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-/**
- * @author pksunkara
- */
 public class Parser {
 
 	private static final String AUTHOR_FILE = "users.txt";

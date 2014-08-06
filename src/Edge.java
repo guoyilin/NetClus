@@ -2,9 +2,6 @@
  * Edge - Objects representing edges of graphs
  */
 
-/**
- * @author pksunkara
- */
 public class Edge {
 
 	public String id = null;
